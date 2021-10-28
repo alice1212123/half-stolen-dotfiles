@@ -1,2 +1,2 @@
-# college-repo
-for college lecture 
+# New Dotfiles
+half stolen dotfiles 
