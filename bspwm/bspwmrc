@@ -1,9 +1,10 @@
 #! /bin/sh
 sxhkd &
-picom &
+#picom &
+flameshot &
+nm-applet &
 lxsession &
-feh --bg-scale ~/Pictures/Wallpapers/anime_wall.jpg
-#nitrogen --restore &
+nitrogen --restore &
 $HOME/.config/polybar/launch.sh
 
 
